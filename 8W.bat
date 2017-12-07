@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\RW-Everything\RW.exe" /Min /Nologo /Stdout /Command="WRMSR 0x610 0x0 0x00DD8800 0¡È
